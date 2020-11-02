@@ -1,3 +1,3 @@
 # Algorithms-analysis-and-design
 
-In this repo we discuse some algorithms
+In this report we discuss some algorithms
