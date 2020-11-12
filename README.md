@@ -1,3 +1,3 @@
 # Algorithms analysis and design
 
-In this repo, we discuss how to analysis and design algorithms
+In this repo, we will discuss how to analysis and design algorithms
