@@ -1,6 +1,6 @@
 # Masters theorem
 ## Masters theorem for decreasing function:
-**Recurrence relation form:** T(n)=a* T(n-1)+f(n), assume that a > 0 and b > 0 and f(n) = O(N^k)  and k≥0
+**Recurrence relation form:** T(n)=a* T(n-b)+f(n), assume that a > 0 and b > 0 and f(n) = O(N^k)  and k≥0
 
 > ### We have three cases:
 > -	Case1: if a < 1 → O(f(n))
