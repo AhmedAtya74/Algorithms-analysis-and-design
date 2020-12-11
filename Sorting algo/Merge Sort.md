@@ -23,3 +23,14 @@
 > - we get the equation: T(n) = 3T(n/3) + O(n)
 > - we get its complexity as O(n log 3n)
 > - **Although time complexity looks less compared to 2 way merge sort, the time taken actually may become higher because number of comparisons in merge function go higher.**
+
+
+## PROS of Merge sort:
+> - Large size list
+> - linked list 
+> - External sorting
+
+## Cons of Merge sort:
+> - Extra Space (Not in-place)
+> - Small problem
+> - Recursive (Stack space)
