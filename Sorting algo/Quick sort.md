@@ -7,7 +7,7 @@
 
 
 ## Time Complexity:
-> - Worst : theta(n2).
+> - Worst : theta(n^2).
 > - Best Case Time: theta(nLogn)
 > - Average Case : O(nLogn)
 
