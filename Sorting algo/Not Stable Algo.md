@@ -1,4 +1,4 @@
-# Not Stable Algo:
+# Not Stable sorting Algo:
 
 > - Quick sort
 
