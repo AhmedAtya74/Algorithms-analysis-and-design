@@ -31,3 +31,14 @@ Src: https://www.youtube.com/watch?v=UGaOXaXAM5M
 > > ![image](https://user-images.githubusercontent.com/64374947/102694325-f6b34180-4228-11eb-97b8-695a0e21c57d.png)
 > > ![image](https://user-images.githubusercontent.com/64374947/102694358-24988600-4229-11eb-8232-2752816b4938.png)
 > > ![image](https://user-images.githubusercontent.com/64374947/102694370-3aa64680-4229-11eb-9c71-f10e388bf74a.png)
+
+## Insert
+> Assume that you want add 9
+> > 1. search key = 9 and record the path
+> > > ![image](https://user-images.githubusercontent.com/64374947/102697075-8661eb80-423b-11eb-8381-e4d3e9323dbb.png)
+> > 2. create a node whose level is random algorithm (flip coin)
+> > > ![image](https://user-images.githubusercontent.com/64374947/102697119-ed7fa000-423b-11eb-992a-fc69f26db0a9.png)
+> > 3. link the new node to the skip list by using previous record
+> > > ![image](https://user-images.githubusercontent.com/64374947/102697150-3f282a80-423c-11eb-92f8-a578361f0690.png)
+ 
+## Thank You!
