@@ -1,4 +1,5 @@
 # Skip List
+Src: https://www.youtube.com/watch?v=UGaOXaXAM5M
 
 > - Skip list allows **fast** search and insertion 
 > > - Search: O(log(n))
